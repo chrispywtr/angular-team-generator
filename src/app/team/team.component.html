@@ -1,0 +1,6 @@
+<div class="team-container">
+    <h3>Team {{index + 1}}</h3>
+    <ul>
+      <li *ngFor="let driver of team">{{driver | titlecase}}</li>
+    </ul>
+  </div>
