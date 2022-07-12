@@ -1,5 +1,9 @@
 # Angular Team Generator App
 
+## About Project
+
+A simple Angular team generator app created during early stages of learning Angular. Useful for picking uneven 5-a-side football teams and creating mutiny amongst your players ;)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.4.
 
 ## Development server
