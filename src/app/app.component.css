@@ -1,0 +1,24 @@
+h1 {
+    font-size: 3rem;
+}
+
+ul {
+    list-style: none;
+    font-size: 1.2rem;
+    border: solid 1px black;
+    min-height: 7rem;
+}
+
+.error-msg {
+    color: red;
+}
+
+.team-container {
+    margin-bottom: 1rem;
+}
+
+.team-container ul {
+    border: 0.1rem solid ;
+    margin: 0;
+    padding: 0.5rem;
+}
